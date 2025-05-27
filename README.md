@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @suyash503
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m suyash bisht but friends call me dhananjay
+- 👀 I’m interested in solving real grassroot level problems
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me suyashsingh2711@gmail.com
 
 <!---
 suyash503/suyash503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
