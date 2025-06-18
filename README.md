@@ -1,4 +1,4 @@
-- 👋 Hi, I’m suyash bisht but friends call me dhananjay
+- 👋 Hi, I’m suyash bisht 
 - 👀 I’m interested in solving real grassroot level problems
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
