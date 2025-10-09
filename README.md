@@ -1,7 +1,6 @@
 - 👋 Hi, I’m suyash bisht 
 - 👀 I’m interested in solving real grassroot level problems
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Full-Stack Developer & CS Student | Passionate about AI, Web Technologies, and Open Source
 - 📫 How to reach me suyashsingh2711@gmail.com
 
 <!---
